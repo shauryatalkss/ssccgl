@@ -7,4 +7,4 @@
 
 ## REASONING 
 
-* Semantic Analogy - Video 1
+* Semantic Analogy - [Video 1](#)
