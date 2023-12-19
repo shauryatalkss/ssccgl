@@ -1,10 +1,10 @@
-# ROADMAP
+# SSC CGL
 
-## REASONING
-* Semantic Analogy
+## ROADMAP
+* Reasoning
 
 ---
 
 ## REASONING 
 
-### Semantic Analogy
+* Semantic Analogy - Video 1
