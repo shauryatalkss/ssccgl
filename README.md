@@ -1,7 +1,7 @@
 # SSC CGL
 
 ## ROADMAP
-* Reasoning
+* [Reasoning](#reasoning)
 
 ---
 
