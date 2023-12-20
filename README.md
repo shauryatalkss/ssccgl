@@ -7,7 +7,7 @@
 
 ## REASONING 
 
-* Analogies
+* Analogies - [Video 1](https://youtu.be/e8JrkRZ9YnY?si=1PhSvyH3KUdwON-i)
 * Similarities and differences
 * Space visualization
 * Spatial orientation
