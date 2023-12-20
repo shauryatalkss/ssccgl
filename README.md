@@ -7,7 +7,6 @@
 
 ## REASONING 
 
-* Semantic Analogy - [Video 1](#)
 * Analogies
 * Similarities and differences
 * Space visualization
